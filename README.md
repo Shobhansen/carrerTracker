@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/logo.jpg" alt="CareerTracker Logo" width="80%"/>
+<img src="public/logo.jpg" alt="CareerTracker Logo" width="70%"/>
 </p>
 
 
